@@ -1,17 +1,18 @@
 ## Hi there 👋
-- 🔭 I’m currently working as a Software Engineer
+- 🔭 I’m currently working as a Sr.Executive - MIS Sales
 - 🌱 I’m currently learning Data Analysis
 - 👯 I’m looking to collaborate with Data Analysts, Data Scientists & Software Engineers
-- 🤔 I’m looking for help with Data Analysts & Web Development
-- 💬 Ask me about ... Data Analysts & Web Development
-- 📫 How to reach me: Mail me "shajadurcse@gmail.com"
+- 🤔 I’m looking for help with Data Analysis & Web Development
+- 💬 Ask me about ... Data Analysis & Web Development
+- 📫 How to reach me: Email me at "shajadurcse@gmail.com"
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ... I Love Data
 🙋 About Me:
 I'm Md. Shajadur Rahman
 A passionate Computer Science Engineer with hands-on experience in:
+ - MIS
  - Software Engineering
- - Technical Support (Telecommunication)
+ - Technical Support (Telecommunications)
  - Project Management (E-Commerce)
 Key strengths:
  - Web Development & Data Analysis
